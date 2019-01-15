@@ -11,4 +11,6 @@ If you find errors, **please submit an issue detailing your concern**, and I wil
 
 **Collaboration is a key element of open source, transparent research.** Please contribute / criticize / discuss! Don't worry, you won't hurt my feelings :grin:
 
+Free free to connect with me on [LinkedIn](https://www.linkedin.com/in/nnamdiiregbulem/) and [Twitter](https://twitter.com/whoisnnamdi). I always love meeting folks who have the same deep passion and commitment to tech.
+
 *Thanks go to Stack Overflow for assembling the underlying survey data used in this analysis*
