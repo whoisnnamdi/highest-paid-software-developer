@@ -1,4 +1,6 @@
 # Highest-Paid Software Developer
+![](/images/luke-porter-107784-unsplash.jpg)
+
 Backup code to replicate the analysis from the post "[Meet Dev, the Highest-Paid Software Developer in America](https://whoisnnamdi.com/highest-paid-software-developer/)"
 
 .py code for the analysis and .ipynb Jupyter notebooks for the analysis and visualizations included.
